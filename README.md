@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shitalpazare
+- 👋 Hi, I’m @Shitaljagtap
 - 👀 I’m interested in Data analyzing
 - 🌱 I’m currently learning Data science 
 - 💞️ I’m looking to collaborate on ...
